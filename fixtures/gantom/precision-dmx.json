@@ -5,7 +5,7 @@
   "meta": {
     "authors": ["Brian McDade"],
     "createDate": "2020-03-28",
-    "lastModifyDate": "2020-03-28"
+    "lastModifyDate": "2026-09-08"
   },
   "links": {
     "manual": [
@@ -16,7 +16,6 @@
       "https://www.youtube.com/watch?v=Oi_wBNiZeQk"
     ]
   },
-  "helpWanted": "Does the 3ch mode really exist? It is never mentioned in the manual.",
   "physical": {
     "dimensions": [44.5, 52.5, 52],
     "power": 3.8,
@@ -161,15 +160,6 @@
     }
   },
   "modes": [
-    {
-      "name": "3-channel",
-      "shortName": "3ch",
-      "channels": [
-        "Red",
-        "Green",
-        "Blue"
-      ]
-    },
     {
       "name": "7-channel",
       "shortName": "7ch",

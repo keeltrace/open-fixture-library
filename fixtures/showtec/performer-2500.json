@@ -160,14 +160,14 @@
   "modes": [
     {
       "name": "1-channel",
-      "shortName": "UNO",
+      "shortName": "1ch",
       "channels": [
         "Master Dimmer"
       ]
     },
     {
       "name": "2-channel",
-      "shortName": "DOS",
+      "shortName": "2ch",
       "channels": [
         "Master Dimmer",
         "Master Dimmer fine"
@@ -175,7 +175,7 @@
     },
     {
       "name": "3-channel",
-      "shortName": "VW.D",
+      "shortName": "3ch",
       "channels": [
         "Master Dimmer",
         "Warm White",
@@ -184,7 +184,7 @@
     },
     {
       "name": "6-channel",
-      "shortName": "VW.F",
+      "shortName": "6ch",
       "channels": [
         "Master Dimmer",
         "Master Dimmer fine",
@@ -196,7 +196,7 @@
     },
     {
       "name": "8-channel",
-      "shortName": "STD.P",
+      "shortName": "8ch",
       "channels": [
         "Master Dimmer",
         "Master Dimmer fine",

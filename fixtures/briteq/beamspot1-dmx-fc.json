@@ -224,7 +224,7 @@
     },
     {
       "name": "RGBW + Master + Sound/Strobe",
-      "shortName": "06CH",
+      "shortName": "6ch",
       "channels": [
         "Red",
         "Green",
@@ -248,7 +248,7 @@
     },
     {
       "name": "Master + Strobe + Programs + RGBW",
-      "shortName": "07CH",
+      "shortName": "7ch",
       "channels": [
         "Master Dimmer",
         "Extended Strobe",

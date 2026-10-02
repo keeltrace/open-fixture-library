@@ -9,7 +9,7 @@
   },
   "acoustic-control": {
     "name": "Acoustic Control",
-    "website": "https://kinson.pro/manufacturers/acoustic-control.html"
+    "website": "https://www.acousticcontrol.com/"
   },
   "adb": {
     "name": "ADB",
@@ -60,7 +60,7 @@
   "beamz": {
     "name": "BeamZ",
     "comment": "Brand of the Tronios Group.",
-    "website": "https://www.tronios.com/lighting/filter/brand_beamz/"
+    "website": "https://www.beamzlighting.com/"
   },
   "big-dipper": {
     "name": "Big Dipper",
@@ -103,7 +103,7 @@
   },
   "cinetec": {
     "name": "Cinetec",
-    "website": "https://www.dimatec.net/cinetec.html"
+    "website": "https://www.dimatec.net/cinetec"
   },
   "clay-paky": {
     "name": "Clay Paky",
@@ -186,7 +186,8 @@
   },
   "eyourlife": {
     "name": "Eyourlife",
-    "website": "https://www.eyourlife.com/"
+    "website": "https://www.eyourlife.com/",
+    "comment": "Original site eyourlife.com no longer resolves (HTTP 404, re-verified 2026-10-02). No verified replacement found; website left unchanged pending one."
   },
   "fiilex": {
     "name": "Fiilex",
@@ -363,7 +364,7 @@
   "mark": {
     "name": "Mark",
     "comment": "No manufacturer website available, linking to distributor Equipson instead.",
-    "website": "https://products.equipson.es/mark"
+    "website": "https://www.equipson.es/"
   },
   "martin": {
     "name": "Martin",
@@ -471,7 +472,7 @@
   "silver-star": {
     "name": "Silver Star",
     "comment": "Brand of Guangzhou Yajiang Photoelectric Equipment Co., Ltd.",
-    "website": "https://www.yajiang.cn/en/home2"
+    "website": "https://www.yajiang.cn/"
   },
   "skypix": {
     "name": "Skypix",
